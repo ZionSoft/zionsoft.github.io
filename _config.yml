@@ -1,15 +1,19 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink:           /:year/:month/:title/
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               ZionSoft
+tagline:             ZionSoft Services
+url:                 http://www.zionsoft.net/
 paginate:            1
 baseurl:             ""
+
+pages_list:
+  About:             '/about'
+  Feed:              '/atom.xml'
 
 # Assets
 #
@@ -20,11 +24,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Xizhi Zhu
+  url:               http://www.zionsoft.net/
+  email:             xizhi.zhu@gmail.com
 
 # Custom vars
-version:             2.0.0
+version:             1.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/xizzhu

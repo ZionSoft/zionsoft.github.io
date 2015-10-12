@@ -3,28 +3,21 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+We are a small, agile and energetic team formed in 2013. Though a young startup, we have strong competence in middleware and application development, with years’ experiences across various desktop and mobile platforms.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+We offer a full solution for **high quality software development**, from initial ideas to final products, and anything in between.
 
-There are currently two themes built on Poole:
+We deliver software of high quality, flexibility, security, and testability.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+We **specialize** in the following fields:
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* Mobile applications on various platforms, including **Android**, **iOS** and others;
+* Cross-platform application using **Qt / QML**;
+* Cross-platform middleware using **C++** and **Java**;
+* Location based services.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+## Contact Us
+Steven Zhu<br/>
+[steven.zhu@zionsoft.net](mailto:steven.zhu@zionsoft.net)<br/>
+Tel: +358 50 480 1247<br/>
+Y-tunnus: 2656317-8
