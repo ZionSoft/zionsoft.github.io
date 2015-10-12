@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Play with Google Play Services 6 - Push Notification
+comments: true
 ---
 
 If you haven’t set up Google Play services SDK yet, please [follow this tutorial](/2014/02/google-play-services-set-up/). Today, we demonstrate how to use the cloud messaging / push notification.

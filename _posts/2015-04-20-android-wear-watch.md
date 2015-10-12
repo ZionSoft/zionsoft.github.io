@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Have fun with Android Wear
+comments: true
 ---
 
 To use Android Wear, you’ll need a hosting device (e.g. a phone or a tablet) with Android 4.3 or above, with BLE support. To [set up the Google Play services](/2014/02/google-play-services-set-up/) that is used for communication between phone and watch, please [follow this tutorial](/2014/02/google-play-services-set-up/).

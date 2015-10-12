@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Play with Google Play Services 1 - Set Up
+comments: true
 ---
 
 Google has offered a bunch of services that developers can use in their Android apps. In this and following few blog posts, we demonstrate how easy it is to use them. Now, let's get everything setup.

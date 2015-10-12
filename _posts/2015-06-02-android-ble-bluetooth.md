@@ -1,6 +1,7 @@
 ---
 layout: post
 title: BLE on Android
+comments: true
 ---
 
 Android supported [Bluetooth Low Energy / Bluetooth Smart](http://www.bluetooth.com/Pages/Bluetooth-Smart.aspx) since [4.3 / API level 18](https://developer.android.com/about/versions/android-4.3.html#Wireless). However, it’s not nice, in many ways.

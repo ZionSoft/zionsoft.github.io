@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Displaying Images Efficiently on Android
+comments: true
 ---
 
 In this blog post, we demonstrate some simple ways to efficiently display images.

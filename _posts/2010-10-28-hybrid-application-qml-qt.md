@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hybrid Application Using QML and Qt C++
+comments: true
 ---
 
 Though QML provides a nice way to design user interfaces, and JavaScript is employed there to implement the application logic and works pretty nice in many cases, we might still need Qt C++ in some situations (well, at least JavaScript has limited access outside its sandbox).

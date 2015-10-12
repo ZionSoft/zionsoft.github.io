@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Go’s defer statement in C++
+comments: true
 ---
 
 The Go language provides a useful [defer statement](http://blog.golang.org/defer-panic-and-recover) to guarantee certain code is always executed when returning from the current scope. Though we can use constructor in C++, things get tricky e.g. when a pointer needs to be deleted. Here we present some simple draft code to solve this issue.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Details of SSL Renegotiation Attack
+comments: true
 ---
 
 This MITM attack is against all versions of the SSL/TLS protocols, allowing an attacker to inject any amount of data into the beginning of the application protocol stream.

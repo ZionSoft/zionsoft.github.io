@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Play with Google Play Services 2 - Locations
+comments: true
 ---
 
 If you haven’t set up Google Play services yet, please follow [this tutorial](/2014/02/google-play-services-set-up/).

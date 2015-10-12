@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Forward Secrecy
+comments: true
 ---
 
 Traditionally, when someone sends a message, the message is encrypted using the receiver’s public key (or by a session key which is encrypted by the receiver’s public key). It looks secure at first glance, since only the receiver can decrypt the message with the private key. However, if an attack is able to record all the exchanged messages, and somehow obtains the private key at some point in the future, he can decrypt all the recorded messages. To solve this kind of issue, here comes the so called **forward secrecy**.
