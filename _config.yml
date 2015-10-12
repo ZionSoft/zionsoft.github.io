@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               ZionSoft
 tagline:             ZionSoft Services
 url:                 http://www.zionsoft.net/
-paginate:            1
+paginate:            7
 baseurl:             ""
 
 pages_list:
