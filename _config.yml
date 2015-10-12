@@ -13,6 +13,7 @@ baseurl:             ""
 
 pages_list:
   About:             '/about'
+  Archive:           '/archive'
   Feed:              '/atom.xml'
 
 # Assets
