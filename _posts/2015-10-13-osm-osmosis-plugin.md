@@ -143,12 +143,15 @@ initialize()
 Oct 13, 2015 9:05:40 PM org.openstreetmap.osmosis.core.Osmosis run
 INFO: Pipeline executing, waiting for completion.
 process(): Bound
+Bound(top=60.2359955, bottom=60.2358955, left=24.7136472, right=24.7186472)
 process(): Node
+Node(id=506188159, #tags=0)
 process(): Node
+Node(id=518411565, #tags=0)
 process(): Node
+Node(id=2009423577, #tags=0)
 process(): Way
-process(): Way
-process(): Relation
+Way(id=23123806, #tags=2)
 complete()
 release()
 Oct 13, 2015 9:05:53 PM org.openstreetmap.osmosis.core.Osmosis run
