@@ -86,7 +86,28 @@ public class MyTask implements Sink {
     @Override
     public void process(EntityContainer entityContainer) {
         // processes each entity
-        System.out.println("process(): " + entityContainer.getEntity().getType());
+        Entity entity = entityContainer.getEntity();
+        EntityType entityType = entity.getType();
+        System.out.println("process(): " + entityType);
+
+        switch (entityType) {
+            case Bound:
+                Bound bound = (Bound) entity;
+                System.out.println(bound.toString());
+                break;
+            case Node:
+                Node node = (Node) entity;
+                System.out.println(node.toString());
+                break;
+            case Way:
+                Way way = (Way) entity;
+                System.out.println(way.toString());
+                break;
+            case Relation:
+                Relation relation = (Relation) entity;
+                System.out.println(relation.toString());
+                break;
+        }
     }
 
     @Override
