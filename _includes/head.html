@@ -25,7 +25,7 @@
 
   <!-- Facebook Open Graph -->
   <meta property="og:site_name" content="{{ site.title }}"/>
-  {% if page.title %}
+  {% if page.title and page.title != "Home" %}
     <meta property="og:title" content="{{ page.title }}"/>
     <meta property="og:type" content="article"/>
   {% else %}
