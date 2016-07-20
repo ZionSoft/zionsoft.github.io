@@ -11,7 +11,7 @@ title:               ZionSoft
 tagline:             ZionSoft Services
 url:                 http://www.zionsoft.net/
 paginate:            7
-baseurl:             ""
+baseurl:             "https://www.zionsoft.net"
 
 pages_list:
   About:             '/about'
