@@ -11,7 +11,7 @@ title:               ZionSoft
 tagline:             ZionSoft Services
 url:                 http://www.zionsoft.net/
 paginate:            7
-baseurl:             "https://www.zionsoft.net"
+baseurl:             "http://www.zionsoft.net"
 
 pages_list:
   About:             '/about'
@@ -28,9 +28,9 @@ sass:
 
 # About/contact
 author:
-  name:              Xizhi Zhu
+  name:              Steven Zhu
   url:               http://www.zionsoft.net/
-  email:             xizhi.zhu@gmail.com
+  email:             steven.zhu@zionsoft.net
 
 # Custom vars
 version:             1.0.0
